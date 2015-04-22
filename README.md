@@ -62,6 +62,7 @@ A idéia principal é tornar o código mais claro, sem precisar estar misturando
 
 -----------------------------------------------------------------------------------------------------
 = English Version =
+
 A simple PHP class to work with PHP code instead of HTML in your projects. Once installed, simply use the object $ wp_tag to manipulate HTML elements. ex:
 
 `
@@ -88,5 +89,5 @@ A simple PHP class to work with PHP code instead of HTML in your projects. Once 
 	        $wp_tag->wp_print('Hello World','decode'); 
 	    $wp_tag->h1;
 	?>
-The main idea is to make the code clearer, without being mixing HTML elements with PHP.
 `
+The main idea is to make the code clearer, without being mixing HTML elements with PHP.
