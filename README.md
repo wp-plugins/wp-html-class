@@ -26,11 +26,8 @@ For those who do not like to mix HTML with PHP code in your projects, this plugi
 
 == Screenshots ==
 
-1. This screen shot description corresponds to screenshot-1.(png|jpg|jpeg|gif). Note that the screenshot is taken from
-the /assets directory or the directory that contains the stable readme.txt (tags or trunk). Screenshots in the /assets 
-directory take precedence. For example, `/assets/screenshot-1.png` would win over `/tags/4.3/screenshot-1.png` 
-(or jpg, jpeg, gif).
-2. This is the second screen shot
+1. Exemple 1
+2. Exemple 2
 
 
 == Wp-Html-Class ==
@@ -64,7 +61,7 @@ Uma simples classe PHP para se trabalhar com códigos PHP ao invés de HTML em s
 A idéia principal é tornar o código mais claro, sem precisar estar misturando elementos HTML com PHP.
 
 -----------------------------------------------------------------------------------------------------
-=English=
+= English Version =
 A simple PHP class to work with PHP code instead of HTML in your projects. Once installed, simply use the object $ wp_tag to manipulate HTML elements. ex:
 
 `
